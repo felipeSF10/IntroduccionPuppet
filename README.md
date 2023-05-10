@@ -11,6 +11,7 @@ Puppet es un sistema de gestión de configuraciones que nos permite automatizar 
 
 [Demo](https://github.com/felipeSF10/IntroduccionPuppet/tree/main/Puppet/demo) Archivos relacionados con la demo.
 
+[Video Eventos Puppet](https://drive.google.com/file/d/1gCxN65DvmyWHVt1Od_QShbDd0Eae7tjF/view?usp=share_link) Video donde explicamos como realizar eventos a un Bot de Telegram al configurar un nodo en Puppet.
 
 ## Autores
 Felipe Segovia Friginal y Andrés Castellanos Cantos
